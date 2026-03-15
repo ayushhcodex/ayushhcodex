@@ -31,6 +31,5 @@ Languages:
 
 ## Contact
 
-GitHub: https://github.com/ayushsingh2428 
-LinkedIn: Add your LinkedIn URL  
+GitHub: https://github.com/ayushhcodex
 

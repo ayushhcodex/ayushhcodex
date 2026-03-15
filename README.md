@@ -1,6 +1,6 @@
 # Ayush Singh
 
-B.Tech Computer Science and Engineering student focused on building strong technical foundations and long-term intellectual leverage.
+B.Tech Computer Science and Engineering student focused on building strong technical foundations and skills
 
 ---
 
